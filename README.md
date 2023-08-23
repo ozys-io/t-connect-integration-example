@@ -1,2 +1,3 @@
-# t-connect-integration-example
-D-app integration example code
+# T@Connect Integration Example
+
+### Please refer https://docs.megaton.fi/products/t-connect for integration
