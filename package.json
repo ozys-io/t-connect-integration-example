@@ -1,0 +1,33 @@
+{
+  "name": "taconnect-integration-example",
+  "private": true,
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "Nest TypeScript starter repository",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bignumber.js": "^9.1.1",
+    "crypto": "^1.0.1",
+    "ton": "^9.6.3",
+    "ton-core": "^0.44.0",
+    "ton-crypto": "^3.2.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "@types/uuid": "^9.0.2",
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "eslint": "^8.19.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1",
+    "source-map-support": "^0.5.21",
+    "ts-loader": "^9.3.1",
+    "ts-node": "^10.8.2",
+    "tsconfig-paths": "^4.0.0",
+    "typescript": "^4.7.4"
+  }
+}
